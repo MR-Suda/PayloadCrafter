@@ -110,6 +110,4 @@ This project is released for educational and ethical use only.
 
 ⭐ Star this repo if it helped you!
 
----
-
-Let me know if you want to include usage screenshots or a badge-style header (e.g., Bash, Kali, MIT License). I can generate those too.
+------
